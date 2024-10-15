@@ -4,7 +4,7 @@ setup(
     name="airflow-4evr",
     version="0.1",
     packages=find_packages(),
-    install_requires=[],  # Add any dependencies here
+    install_requires=["numpy"],  # Add any dependencies here
     description="A simple Python package",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
