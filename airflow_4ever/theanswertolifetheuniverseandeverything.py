@@ -1,6 +1,6 @@
 from time import sleep
 
-sleep(100)
+sleep(35)
 
 
 def the_answer():
